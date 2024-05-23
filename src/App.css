@@ -1,0 +1,35 @@
+.navbar {
+  background-color: #575858;
+}
+.pikachu {
+  width: 250px;
+  height: 250px;
+}
+
+.img_poke {
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+}
+.logo {
+  width: auto;
+  height: 40px;
+  padding-left: 20px;
+}
+
+.active {
+    color: red !important;
+  }
+  .inActive {
+    color: white !important;
+  }
+
+  .titulo {
+    margin-bottom: 30px;
+    margin-top: 20px;
+  }
+
+  ul {
+    text-align: justify;
+    margin-left: 100px;
+  }
